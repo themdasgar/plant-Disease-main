@@ -9,3 +9,4 @@ torch
 torchvision
 deep-translator==1.11.4
 reportlab==4.4.7
+gTTS==2.5.4
